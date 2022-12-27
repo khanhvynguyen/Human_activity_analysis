@@ -8,4 +8,4 @@ Then, I carried out some **network analysis** such as computing average degree, 
 
 Permutation entropy and complexity are also computed
 
-Jupiter Notebook: 
+Jupiter Notebook: https://github.com/khanhvynguyen/Human_activity_analysis/blob/main/Human_activity.ipynb
